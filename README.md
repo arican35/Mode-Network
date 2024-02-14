@@ -1,8 +1,8 @@
 <h1 align="center"> Mode Network </h1>
 
-> Başlangıçta `köprüyü` kullanalım ve biraz Mode ağında test tokenimiz olsun.
 
-> [Buradan](https://bridge.mode.network/) kullanabilirsiniz köprüyü. Ben Mode Network'u `çok sevdim çok.`
+
+
 
 ```
 # RPC bilgileri:
